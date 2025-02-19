@@ -16,7 +16,7 @@ I'm a software developer passionate about solving real-world problems using high
 - **Languages:** C#, C
 - **Frameworks & Tools:** .NET, ASP.NET Core, Entity Framwork, SQL Server, Docker
 - **Operating Systems:** Linux, Windows
-- **Other Interests:** kernel development, IOT
+- **Other Interests:** kernel development, IoT
 
 <!-- ## 📌 Featured Projects -->
 
