@@ -13,14 +13,15 @@ I'm a software developer passionate about solving real-world problems using high
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, C
-- **Frameworks & Tools:** .NET, ASP.NET Core, Entity Framwork, SQL Server, Docker
+- **Main Language:** C#
+- **Other Languages:** C, JS, Python
+- **Frameworks & Tools:** .NET Core, ASP.NET Core, Entity Framwork Core, SQL Server, Docker, Git
 - **Operating Systems:** Linux, Windows
-- **Other Interests:** kernel development, IoT
+- **Other Interests:** kernel development, IoT, Electronics
 
 <!-- ## 📌 Featured Projects -->
 
-<!-- - 🌐 **HTTP Server** – Building an HTTP server from scratch after studying the protocol. -->
+<!-- - 🌐 **HTTP Server** – -->
 
 ## 📫 Let's Connect
 
