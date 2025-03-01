@@ -10,7 +10,7 @@ I'm a software developer passionate about solving real-world problems using high
 - 🖌️ **Design Patterns** – Exploring how to craft flexible, maintainable, and scalable software by mastering design patterns.
 - 🌐 **HTTP Protocol** – Dive into the fascinating history and evolution of the World Wide Web.
 - ⚡ **Low-Level Programming** – Learning about CPUs, RAM, assembly, and linux programming interface.
-- 🧑‍💻 **IDE's** - Visual Studio Code, JetBrains Rider *(Non-commercial)*.
+
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +19,7 @@ I'm a software developer passionate about solving real-world problems using high
 - **Frameworks & Tools:** .NET Core, ASP.NET Core, Entity Framwork Core, LINQ, SQL Server, Docker, Git
 - **Operating Systems:** Linux, Windows
 - **Other Interests:** kernel development, IoT, Electronics
-
+- **IDE's** - Visual Studio Code, JetBrains Rider *(Non-commercial)*.
 <!-- ## 📌 Featured Projects -->
 
 <!-- - 🌐 **HTTP Server** – -->
